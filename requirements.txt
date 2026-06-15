@@ -1,0 +1,8 @@
+# 视频格式转码工具 - Python 依赖
+# 安装: pip install -r requirements.txt
+#
+# 运行依赖：
+PyQt6>=6.5.0
+
+# 打包依赖（仅开发打包时需要）：
+pyinstaller>=6.0.0

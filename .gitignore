@@ -1,0 +1,20 @@
+# 构建产物
+build/
+dist/
+*.pyc
+__pycache__/
+
+# FFmpeg 二进制（太大，需单独下载）
+ffmpeg/ffmpeg.exe
+ffmpeg/*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.spec.bak
+*.log
+create_shortcut.ps1
+download_ffmpeg.py
